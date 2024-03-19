@@ -13,7 +13,7 @@
             <label for="surname">Фамилия</label>
             <input type="text" class="form-control" id="surname" name="surname" value="{{ $user->surname }}">
         </div>
-        <!-- Добавьте остальные поля здесь -->
+       
         <button type="submit" class="btn btn-primary">Сохранить</button>
     </form>
 
